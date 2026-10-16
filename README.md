@@ -12,6 +12,8 @@ DrJava, the Java editor many university courses use, packaged for today's Macs. 
 
 ## Install
 
+Watch the two-minute walkthrough: [DrJava on a Mac in two minutes!](https://youtu.be/MBTZ_kf3ZDo)
+
 1. [Download DrJava-for-Mac.zip](https://github.com/erfanulfarhan/drjava-mac/releases/latest/download/DrJava-for-Mac.zip) and double-click it. Your Mac unzips it for you.
 2. Open the **DrJava for Mac** folder and drag **DrJava** into **Applications**.
 3. Open DrJava. The first time, macOS says **"DrJava" Not Opened**, because the app isn't notarized by Apple. Click **Done**.
