@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleName</key><string>DrJava</string>
+  <key>CFBundleDisplayName</key><string>DrJava</string>
+  <key>CFBundleIdentifier</key><string>io.github.erfanulfarhan.drjava</string>
+  <key>CFBundleShortVersionString</key><string>beta-20190813, Mac build 2</string>
+  <key>CFBundleVersion</key><string>2</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleExecutable</key><string>DrJava</string>
+  <key>CFBundleIconFile</key><string>DrJava</string>
+  <key>LSMinimumSystemVersion</key><string>10.13</string>
+  <key>LSApplicationCategoryType</key><string>public.app-category.developer-tools</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSHumanReadableCopyright</key><string>DrJava by the JavaPLT group at Rice University. Unofficial Mac build with Java 8 included.</string>
+</dict>
+</plist>

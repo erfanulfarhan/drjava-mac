@@ -1,0 +1,11 @@
+# Build output and downloads (the zip ships as a GitHub release asset, not in git)
+build/
+dist/
+*.zip
+*.jar
+*.tar.gz
+
+# The YouTube video project: it holds raw screen recordings with personal details
+video/
+
+.DS_Store
